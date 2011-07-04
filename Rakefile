@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "knjlirc"
   gem.homepage = "http://github.com/kaspernj/knjlirc"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A small framework to read Lirc events from irw.}
+  gem.description = %Q{The purpose of this framework is to easily implement remote-control-events into a Ruby-application.}
   gem.email = "k@spernj.org"
   gem.authors = ["Kasper Johansen"]
   # dependencies defined in Gemfile
